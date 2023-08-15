@@ -1,5 +1,5 @@
 # AQAD41 (and more Volvo Penta engines) - RPM data To SignalK
-First off, Kudos to [Boatingwiththebaileys](https://github.com/Boatingwiththebaileys/) that crated the shell and idea for this project!
+First off, Kudos to [Boatingwiththebaileys](https://github.com/Boatingwiththebaileys/) that created the shell and idea for this project!
 
 This projects get your Volvo Penta RPM data into SignalK and still keep your Original tachometers fully working.
 It also calculates (very roughly) the fuel comsumption at that very moment, in m3/s, SignalK standard.
