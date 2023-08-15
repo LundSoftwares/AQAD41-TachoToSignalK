@@ -44,11 +44,11 @@ Optional items:
 
 Based on the part list above, follow this schedule to build the electric circuit.
 
-![ElectricSchedule](https://github.com/LundSoftwares/AQAD41-TachoToSignalK/assets/23386303/b7aa5950-1433-4f2b-ab88-8660a66f81c6)
+![ElectricSchedule](https://github.com/LundSoftwares/AQAD41-TachoToSignalK/assets/23386303/bd016b08-5705-4c9f-b74f-be025549875e)
 
 With the 4 pole Fastin-Faston connectors, build through-adapters and take W and GND signal to your circuit. Image below shows the Pinout for the Tachometers.
 
-![TachometerBack](https://github.com/LundSoftwares/AQAD41-TachoToSignalK/assets/23386303/5e56d8b8-a16e-4fc1-baa6-6919d1384510)
+![TachometerBack](https://github.com/LundSoftwares/AQAD41-TachoToSignalK/assets/23386303/e2ea5d73-1fbd-42a5-89e3-a40316f9578a)
 
 If your Tachometer looks different, find the pinout and build own cable adapter, or just piggyback the original cabling.
 
