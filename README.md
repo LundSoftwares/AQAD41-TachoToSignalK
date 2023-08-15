@@ -64,6 +64,26 @@ Two parts may be configured based on Engine type:
   - Example: 1 turn on an AQAD41 makes 2.45 turns on the Alternator, and the Alternator has 6 poles which makes a total of 2.45 x 6 = 14.7 Hz per turn. SignalK needs info in Hz so we need to divide the incoming value with 14.7, or as in our case multiply with (1/14.7) = 0,06803
   - If Ratio is unknown, the original Tachometer might have a max Impulses/min written on it, divide that with max rpm on the meter and you'll get the ratio. Tachometer 860420 is marked with 73500Imp/min and has a scale to 5000rpm. 73500 divided with 5000 equals 14,7, Tada!
 - If above multiplier needs to be recalculated, the FuelMultipliers needs to be recalculated as well, they're both based on AQAD41 values right now.
-  - AQAD41 example:  60 divided with FlyWheel To W Ratio (60 / 14,7 = 4,08) 
+  - AQAD41 example:  60 divided with FlyWheel To W Ratio (60 / 14,7 = 4,08)
+
+## Finished Product!
+
+**ESP32 + Circuit board**
+
+![image](https://github.com/LundSoftwares/AQAD41-TachoToSignalK/assets/23386303/fc92f2b9-018f-474a-af6b-0b4846a41041)
+
+**Complete incl cabling adapter**
+
+![image](https://github.com/LundSoftwares/AQAD41-TachoToSignalK/assets/23386303/59bdc2dd-7944-4309-a642-7f0fba8f0f73)
+
+**Installed in boat (Very bad image...)**
+
+![image](https://github.com/LundSoftwares/AQAD41-TachoToSignalK/assets/23386303/b5bfaded-f93c-472f-ae10-534b4dedcc46)
+
+**Result in SignalK**
+
+![image](https://github.com/LundSoftwares/AQAD41-TachoToSignalK/assets/23386303/775b0860-c231-49f2-84a9-c265eeb8464c)
+
+
     
 
