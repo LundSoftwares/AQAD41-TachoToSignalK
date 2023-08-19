@@ -85,5 +85,9 @@ Two parts may be configured based on Engine type:
 ![image](https://github.com/LundSoftwares/AQAD41-TachoToSignalK/assets/23386303/775b0860-c231-49f2-84a9-c265eeb8464c)
 
 
-    
+# Sponsor this project
+
+<a href="https://www.paypal.com/donate/?business=MTXQ49TG6YH36&no_recurring=0&item_name=Like+my+work?+%0APlease+buy+me+a+coffee...&currency_code=SEK">
+  <img src="https://pics.paypal.com/00/s/MjMyYjAwMjktM2NhMy00NjViLTg3N2ItMDliNjY3MjhiOTJk/file.PNG" alt="Donate with PayPal" />
+</a>
 
